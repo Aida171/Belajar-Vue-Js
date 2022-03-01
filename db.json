@@ -1,0 +1,8 @@
+{
+    "articles":[
+        {"id":1, "title":"Judul Pertama", "content":"ini adalah isi dari content pertama"},
+        {"id":2, "title":"Judul Kedua", "content":"ini adalah isi dari content kedua"},
+        {"id":3, "title":"Judul Ketiga", "content":"ini adalah isi dari content ketiga"}
+    
+    ]
+}
